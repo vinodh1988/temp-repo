@@ -1,3 +1,1 @@
 Temporary file
-
-Ternary file
